@@ -1,0 +1,3 @@
+beta0 delta0 delta1 delta2 temp1 temp2
+0.031733 0.286 0.286 0.291 35.6 37.3
+//making delta1=delta2 will turn off compensation in the analysis program

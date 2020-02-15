@@ -1,0 +1,9 @@
+USB-1208LS Device is found!
+BK  volts 1.00	amps 0.00
+BK  volts 2.29	amps 0.00
+Target T= 35.9
+error info: 0
+Ch0 7.45E+02
+IonGauge 7.70E-06
+Kxxthly 485 -0.01
+LED current (mA) -0.24
